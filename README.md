@@ -1,2 +1,2 @@
 # Character_Recognition
-Code to recognize road signs built on VS.
+Code to recognize road signs built on OpenCV.
